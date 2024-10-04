@@ -1,7 +1,1 @@
-echo "# GAME" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/ac4b4x1/GAME.git
-git push -u origin main
+Em Click Point, a sua rapidez e agilidade são colocados à prova! O objetivo é simples: clique na bola para ganhar pontos, mas fique atento! a cada nível, a bola se move mais rápido e aparecem obstáculos que desafiarão sua habilidade!
