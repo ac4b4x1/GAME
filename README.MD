@@ -7,7 +7,7 @@ REGRAS:
 
 No jogo terá algumas regras!
 
-- Ao clicar em qualquer coisa que não sejam a bolinha designada, você perderá 1 vida.
+- Ao clicar em qualquer coisa que não seja a bolinha designada, você perderá 1 vida.
 
 - Você terá apenas 3 vidas no total do game, repondo em alguns minutos.
 
